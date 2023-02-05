@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 00:58\n"
+"PO-Revision-Date: 2023-02-05 03:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -27,7 +27,7 @@ msgstr "Type"
 
 #: checkins/admin.py
 msgid "Checkin time"
-msgstr ""
+msgstr "Heure d’arrivée"
 
 #: checkins/apps.py templates/nav/admin_nav.html
 #: templates/nav/assistant_nav.html templates/nav/public_nav.html
@@ -137,7 +137,7 @@ msgstr "Il n’y a aucun identifiant disponible à afficher. Un administrateur v
 
 #: checkins/templates/checkin_printables.html
 msgid "Each of the barcodes below is also an image file that can be downloaded individually. If you want to download them all at once try using a 'bulk downloader' extension/plugin for your browser, such as <a href=\"https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB\">this one (for Chrome)</a>. To download them as a list you can go to Check-Ins section of the Edit Database area and copy/paste from the relevant table."
-msgstr ""
+msgstr "Chacun des codes-barres suivants est un image qui peut être téléchargé individuellement. Si vous voulez les télécharger tous à la fois, essayez un extension de navigateur, tel <a href=\"https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=fr-CA\">celui ci (pour Chrome)</a>. Pour les télécharger en liste vous pouvez aller à la section d’enregistrement du zone de modifications de la base de données et les copier-coller dans la table."
 
 #: checkins/templates/checkin_printables.html
 msgid "You can use Ctrl+P for printing or saving the barcodes PDF. Be sure to set the appropriate <strong>page orientation</strong>, to turn off <strong>headers/footers</strong> and turn on <strong>background graphics</strong>. Works best in Chrome."
@@ -401,7 +401,7 @@ msgstr "Notre organisation"
 
 #: templates/footer.html
 msgid "Tabbycat is supported by the <a href=\"https://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
-msgstr ""
+msgstr "Tabbycat est soutenu par l'<a href=\"https://tabbycat-debate.org/\">Association de débat Tabbycat</a>, un organisme à but non-lucratif pour la technologie de débat libre."
 
 #: templates/footer.html
 msgid "Language"
