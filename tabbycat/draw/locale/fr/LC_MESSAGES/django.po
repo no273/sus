@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 00:57\n"
+"PO-Revision-Date: 2023-02-05 03:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -105,7 +105,7 @@ msgstr "Les rangs des salles de la joute d'élimination partielle indique qu'un 
 #: draw/generator/bpelimination.py
 #, python-format
 msgid "The room ranks of the partial elimination round indicate that %(nbypassing)d teams bypassed it, but %(nadvancing)d teams advanced from it."
-msgstr ""
+msgstr "Les rangs des salles de la joute d'élimination partielle indique que %(nbypassing)d équipes l'ont contourné, mais que %(nadvancing)d équipes l'ont avancé."
 
 #: draw/generator/bpelimination.py
 #, python-format
@@ -586,7 +586,7 @@ msgstr[1] "%(motions_count)s motions ont été enregistrées."
 msgid "Edit the motion"
 msgid_plural "Edit motions"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Modifier motions"
 
 #: draw/templates/draw_display_admin.html
 msgid "Your configuration/format requires motions to be specified as part of ballot entry. Make sure they are added before results come in!"
@@ -594,13 +594,13 @@ msgstr "Votre configuration/format nécessite la spécification des motions dans
 
 #: draw/templates/draw_display_admin.html
 msgid "A motion should be added if you want to display it during announcements, print it on your ballots, or to display it (later) on the public motions/statistics pages."
-msgstr ""
+msgstr "Une motion devrait être ajoutée si vous voulez l'afficher lors des annonces, l'imprimer sur vos feuilles de jugement ou pour l'afficher (plus tard) sur les pages de motions/statistiques publiques."
 
 #: draw/templates/draw_display_admin.html
 msgid "Enter a motion"
 msgid_plural "Enter motions"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Saisir motions"
 
 #: draw/templates/draw_display_admin.html
 msgid "Release Draw"
@@ -664,19 +664,19 @@ msgstr "Votre configuration n'a ni de page publique pour le tirage ni les soumis
 msgid "Release motion to public"
 msgid_plural "Release motions to public"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Publier les motions"
 
 #: draw/templates/draw_display_admin.html
 msgid "Unrelease motion to public"
 msgid_plural "Unrelease motions to public"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Retirer les motions"
 
 #: draw/templates/draw_display_admin.html
 msgid "Release Motion"
 msgid_plural "Release Motions"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Publier motions"
 
 #: draw/templates/draw_display_admin.html
 msgid "No motion(s) are currently set for this round."
@@ -951,7 +951,7 @@ msgstr "Il semble que les côtés ne sont pas confirmés pour quelques débats d
 #: draw/templates/position_balance.html
 #, python-format
 msgid "Your current position cost function is <strong>%(cost_func)s</strong>, raised to an exponent of <strong>%(exponent)s</strong>. <a href=\"https://tabbycat.readthedocs.io/en/latest/features/draw-generation-bp.html#position-cost-options\" target=_\"blank\">Read more about how position cost functions work</a> in our documentation."
-msgstr ""
+msgstr "Votre fonction de coût de position actuelle est <strong>%(cost_func)s</strong>, à la puissance <strong>%(exponent)s</strong>. <a href=\"https://tabbycat.readthedocs.io/en/latest/features/draw-generation-bp.html#position-cost-options\" target=_\"blank\">Lisez d'avantage sur comment les fonctions de coût de position fonctionnent</a> dans notre documentation."
 
 #: draw/templates/position_balance_break.html
 msgid "Position balance reports aren't computed for elimination rounds."
