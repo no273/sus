@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 00:57\n"
+"PO-Revision-Date: 2023-02-05 03:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -710,7 +710,7 @@ msgstr ""
 #: tournaments/templates/set_round_weights.html
 msgctxt "button"
 msgid "Set weights"
-msgstr ""
+msgstr "Définir les poids"
 
 #: tournaments/templates/site_index.html
 msgid "Welcome!"
@@ -730,7 +730,7 @@ msgstr "Il n'y a pas actuellement de tournois sur ce site."
 
 #: tournaments/templates/site_index.html
 msgid "(inactive)"
-msgstr ""
+msgstr "(inactif)"
 
 #: tournaments/templates/site_index.html
 msgid "New Tournament"
@@ -788,7 +788,7 @@ msgstr "Utiliser l’importateur simple afin d'ajouter vos données initiales."
 #: tournaments/templates/tournament_index.html
 #, python-format
 msgid "Mark participants as available to prepare a draw for %(round)s"
-msgstr ""
+msgstr "Marquez des participants disponibles afin de préparer un tirage pour %(round)s"
 
 #: tournaments/templates/tournament_index.html
 #, python-format
@@ -798,7 +798,7 @@ msgstr "Allez à la zone de tirage afin d'attribuer les juges aux débats de %(r
 #: tournaments/templates/tournament_index.html
 #, python-format
 msgid "Go to the results area to enter ballots for %(round)s"
-msgstr ""
+msgstr "Allez à la zone de résultats afin de saisir les feuilles pour %(round)s"
 
 #: tournaments/templates/tournament_index.html
 msgid "You have enabled a URL that allows users to create new accounts. You should <strong>disable it once the tournament starts</strong>."
