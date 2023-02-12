@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 00:57\n"
+"POT-Creation-Date: 2023-02-12 02:04-0400\n"
+"PO-Revision-Date: 2023-02-12 06:12\n"
 "Last-Translator: \n"
 "Language-Team: Talossan\n"
 "Language: tzl_TZL\n"
@@ -23,8 +23,10 @@ msgstr "crwdns29778:0crwdne29778:0"
 
 #: breakqual/base.py
 #, python-format
-msgid "The break qualification rule %(rule)s requires the following metric(s) to be in the team standings precedence in order to work: %(required)s; and the following are missing: %(missing)s."
-msgstr "crwdns29780:0%(rule)scrwdnd29780:0%(required)scrwdnd29780:0%(missing)scrwdne29780:0"
+msgid "The %(rule)s break qualification rule is missing the following required metric in the team standings precedence: %(missing)s"
+msgid_plural "The %(rule)s break qualification rule is missing the following required metrics in the team standings precedence: %(missing)s"
+msgstr[0] "crwdns52255:1%(rule)scrwdnd52255:1%(missing)scrwdne52255:1"
+msgstr[1] "crwdns52255:5%(rule)scrwdnd52255:5%(missing)scrwdne52255:5"
 
 #: breakqual/models.py
 msgid "tournament"
