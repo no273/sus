@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:25-0400\n"
-"PO-Revision-Date: 2023-02-12 06:27\n"
+"PO-Revision-Date: 2023-02-12 15:51\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -682,7 +682,7 @@ msgstr[1] "Publier motions"
 msgid "No motion is currently set for this round."
 msgid_plural "No motions are currently set for this round."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Aucunes motions ne sont définies pour cette joute."
 
 #: draw/templates/draw_display_admin.html
 msgid "Your tournament is configured to require motions to be selected in ballots and to allow ballots to be submitted by adjudicators. Ensure that you release the motions before debates finish, otherwise ballots will not be able to be submitted."
@@ -696,19 +696,19 @@ msgstr "Selon la configuration de votre tournoi, les équipes peuvent opposer le
 msgid "Your tournament is configured to show the motion for each round on the public site. You'll need to first release the motion for it to show there."
 msgid_plural "Your tournament is configured to show the motions for each round on the public site. You'll need to first release the motions for it to show there."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Votre tournoi est configuré pour afficher les motions de chaque joute sur la page publique. Pour que les motions s'y affiche, vous devez les publier."
 
 #: draw/templates/draw_display_admin.html
 msgid "Your tournament is not configured to show the motion for each round on the public site. There's no need to release the motion."
 msgid_plural "Your tournament is not configured to show the motions for each round on the public site. There's no need to release the motions."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Votre tournoi n'est pas configuré pour afficher les motions de chaque joute sur la page publique. Vous n'avez pas besoin de les publier."
 
 #: draw/templates/draw_display_admin.html
 msgid "The motion has been released publicly."
 msgid_plural "Motions have been released publicly."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Les motions ont été publiées."
 
 #: draw/templates/draw_display_admin.html
 msgid "View public motions page"
