@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:04-0400\n"
-"PO-Revision-Date: 2023-02-12 06:11\n"
+"PO-Revision-Date: 2023-02-12 15:51\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -69,7 +69,7 @@ msgstr "Afficher des informations non sensibles sur les pages accessibles au pub
 
 #: tournaments/forms.py
 msgid "<strong>Tabulation:</strong> [list tabulation staff here]<br /><strong>Equity:</strong> [list equity members here]<br /><strong>Organisation:</strong> [list organising committee members here]<br /><strong>Adjudication:</strong> [list chief adjudicators here]"
-msgstr ""
+msgstr "<strong>Tabulation :</strong> [équipe de tabulation]<br /><strong>Équité :</strong> [équipe d'équité]<br /><strong>Organisation :</strong> [comité d’organisation]<br /><strong>Juges :</strong> [juges en chef]"
 
 #: tournaments/forms.py
 msgid "Current preliminary round"
@@ -389,7 +389,7 @@ msgstr "Créer nouveau tournoi"
 #: tournaments/templates/create_tournament.html
 #, python-format
 msgid "Tabbycat is free to use for non-profit and non-fundraising tournaments (although donations are encouraged). If your tournament is run for profit or for fundraising, please note that there is a <a href=\"%(donations_url)s\">required payment</a>. For more details, see the <a href=\"https://tabbycat.readthedocs.io/en/stable/about/licence.html\"> Tabbycat licence agreement</a>."
-msgstr ""
+msgstr "Tabbycat est gratuit à utiliser pour les tournois à but non lucratif et qui ne sont pas pour la collecte des fonds (toutefois, les dons sont encouragés). Si votre tournoi est à but lucratif ou pour la collecte des fonds, veuillez noter qu'il existe un <a href=\"%(donations_url)s\">paiement obligatoire</a>. Pour plus de détails, lisez <a href=\"https://tabbycat.readthedocs.io/en/stable/about/licence.html\">l'accord de licence de Tabbycat</a>."
 
 #: tournaments/templates/create_tournament.html
 msgid "Just trying out Tabbycat?"
@@ -464,7 +464,7 @@ msgstr "Identifiant de débat"
 #: tournaments/templates/fix_debate_teams.html
 #, python-format
 msgid "Teams on %(side)s"
-msgstr ""
+msgstr "Équipes de %(side)s"
 
 #: tournaments/templates/fix_debate_teams.html
 msgid "Link to fix this debate"
