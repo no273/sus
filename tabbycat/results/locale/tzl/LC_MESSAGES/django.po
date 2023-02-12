@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 01:01\n"
+"POT-Creation-Date: 2023-02-12 02:04-0400\n"
+"PO-Revision-Date: 2023-02-12 06:14\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Talossan\n"
 "Language: tzl_TZL\n"
@@ -550,8 +550,8 @@ msgid "Assign sides before entering scores"
 msgstr "crwdns32664:0crwdne32664:0"
 
 #: results/templates/ballot/ballot_speaks.html
-msgid "Duplicate speeches are hidden from the speaker tab. If a speaker is 'iron-manning' you would typically mark only the lesser of their scores as a duplicate."
-msgstr "crwdns32616:0crwdne32616:0"
+msgid "Duplicate speeches are hidden from the speaker tab. If a speaker is 'iron-personing' you would typically mark only the lesser of their scores as a duplicate."
+msgstr "crwdns52257:0crwdne52257:0"
 
 #: results/templates/ballot/other_ballots_list.html
 #, python-format
@@ -802,8 +802,10 @@ msgstr[0] "crwdns32712:1crwdne32712:1"
 msgstr[1] "crwdns32712:5%(nsubmissions)scrwdne32712:5"
 
 #: results/templates/public_enter_results.html
-msgid "Submit Ballot(s)"
-msgstr "crwdns34516:0crwdne34516:0"
+msgid "Submit Ballot"
+msgid_plural "Submit Ballots"
+msgstr[0] "crwdns52259:1crwdne52259:1"
+msgstr[1] "crwdns52259:5crwdne52259:5"
 
 #: results/templates/public_enter_results.html
 msgid "When submitting this form your IP address will be stored for logging purposes."
