@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-02-05 01:02\n"
+"POT-Creation-Date: 2023-02-12 02:04-0400\n"
+"PO-Revision-Date: 2023-02-12 06:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -301,16 +301,16 @@ msgid "TBC"
 msgstr "UDK"
 
 #: utils/tables.py
-msgid "Team iron-manned this round and the last."
-msgstr "Tim iron-manned di babak ini dan yang terakhir."
+msgid "Team iron-personed this round and the last."
+msgstr ""
 
 #: utils/tables.py
-msgid "Team iron-manned this round."
-msgstr "Tim iron-manned di babak ini."
+msgid "Team iron-personed this round."
+msgstr ""
 
 #: utils/tables.py
-msgid "Team iron-manned last round."
-msgstr "Babak terakhir timiron-manned."
+msgid "Team iron-personed last round."
+msgstr ""
 
 #: utils/tables.py
 #, python-format
