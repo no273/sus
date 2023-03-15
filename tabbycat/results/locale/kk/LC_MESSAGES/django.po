@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:04-0400\n"
-"PO-Revision-Date: 2023-03-15 13:13\n"
+"PO-Revision-Date: 2023-03-15 14:16\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Kazakh\n"
 "Language: kk_KZ\n"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: results/models.py
 msgid "debate"
-msgstr ""
+msgstr "пікірсайыс"
 
 #: results/models.py
 msgid "motion"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: results/models.py
 msgid "debate adjudicator"
-msgstr ""
+msgstr "ойын төрешісі"
 
 #: results/models.py
 msgid "debate team"
