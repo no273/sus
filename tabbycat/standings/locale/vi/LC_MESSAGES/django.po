@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-03-22 12:33\n"
+"PO-Revision-Date: 2023-03-25 13:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -323,12 +323,12 @@ msgstr ""
 
 #: standings/templates/current_standings.html
 msgid "It also excludes results from silent rounds (if any) and from the current round."
-msgstr ""
+msgstr "Bảng xếp hạng cũng sẽ không hiển thị kết quả của vòng im lặng và vòng hiện tại."
 
 #: standings/templates/current_standings.html
 #, python-format
 msgid "This list is sorted by team points, then alphabetically by team name. It does not indicate each team's ranking within each bracket. %(silent_round_sentence)s"
-msgstr ""
+msgstr "Bàng được sắp xếp dựa trên điểm của mỗi đội, rồi theo bảng chữ cái của mỗi đội. Bảng xếp hạng không hiển thị chính xác thứ hạng của mỗi đội trong mỗi khung điểm. %(silent_round_sentence)s"
 
 #: standings/templates/current_standings.html
 #, python-format
@@ -407,7 +407,7 @@ msgstr ""
 
 #: standings/templates/standings_index.html
 msgid "Standings"
-msgstr ""
+msgstr "Xếp hạng"
 
 #: standings/templates/standings_index.html
 msgid "Top Speaks"
@@ -596,11 +596,11 @@ msgstr ""
 
 #: standings/views.py
 msgid "Current Team Standings"
-msgstr ""
+msgstr "Bảng xếp hạng đội hiện tại"
 
 #: standings/views.py
 msgid "Points"
-msgstr ""
+msgstr "Điểm"
 
 #: standings/views.py
 msgid "Feedback Overview"
