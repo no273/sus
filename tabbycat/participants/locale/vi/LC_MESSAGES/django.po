@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-03-22 12:33\n"
+"PO-Revision-Date: 2023-03-25 02:58\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -434,7 +434,7 @@ msgstr ""
 #: participants/templates/adjudicator_registration_card.html
 #: participants/templates/team_registration_card.html
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: participants/templates/adjudicator_registration_card.html
 #: participants/templates/team_registration_card.html
@@ -490,17 +490,17 @@ msgstr ""
 
 #: participants/templates/current_round/common.html
 msgid "Teams:"
-msgstr ""
+msgstr "Đội:"
 
 #: participants/templates/current_round/common.html
 msgid "Adjudicator:"
 msgid_plural "Adjudicators:"
-msgstr[0] ""
+msgstr[0] "Giám khảo:"
 
 #: participants/templates/current_round/common.html
 msgctxt "chair icon"
 msgid "Ⓒ"
-msgstr ""
+msgstr "Ⓒ"
 
 #: participants/templates/current_round/common.html
 msgctxt "trainee icon"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: participants/templates/current_round/common.html
 msgid "There are no panellists or trainees assigned to this debate."
-msgstr ""
+msgstr "Không có giám khảo phụ hay giám khảo thực tập được phân công trong trận tranh biện này."
 
 #: participants/templates/current_round/common.html
 msgid "Motions are not released to public."
@@ -526,7 +526,7 @@ msgstr ""
 
 #: participants/templates/current_round/common.html
 msgid "The motion(s) for this round haven't yet been released."
-msgstr ""
+msgstr "(Các) kiến nghị cho vòng này chưa được công bố."
 
 #: participants/templates/current_round/round_adj.html
 #, python-format
@@ -671,7 +671,7 @@ msgstr ""
 #: participants/templates/current_round/round_team.html
 #, python-format
 msgid "%(team)s is debating as the <strong>%(side)s</strong> team."
-msgstr ""
+msgstr "%(team)s đang tranh biện trong vị trí <strong>%(side)s</strong>."
 
 #: participants/templates/current_round/round_team.html
 #, python-format
@@ -686,7 +686,7 @@ msgstr ""
 #: participants/templates/current_round/round_team.html
 #, python-format
 msgid "%(team)s's debate is in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Trận tranh biện của %(team)s ở <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_team.html
 #, python-format
@@ -829,7 +829,7 @@ msgstr ""
 
 #: participants/templates/team_registration_card.html
 msgid "Team name:"
-msgstr ""
+msgstr "Tên đội:"
 
 #: participants/templates/team_registration_card.html
 msgid "Full team name:"
@@ -861,7 +861,7 @@ msgstr "Thành viên:"
 
 #: participants/templates/team_registration_card.html
 msgid "Eligible for break categories:"
-msgstr ""
+msgstr "Có thể break trong bảng:"
 
 #: participants/templates/team_registration_card.html
 msgid "Speaker categories:"
