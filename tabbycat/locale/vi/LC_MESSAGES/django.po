@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-03-25 04:12\n"
+"PO-Revision-Date: 2023-03-25 13:45\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -549,7 +549,7 @@ msgstr ""
 
 #: templates/nav/admin_nav.html templates/nav/public_nav.html
 msgid "Standings"
-msgstr ""
+msgstr "Xếp hạng"
 
 #: templates/nav/admin_nav.html
 msgid "All Teams"
