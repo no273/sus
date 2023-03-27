@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-03-27 08:04\n"
+"PO-Revision-Date: 2023-03-27 09:26\n"
 "Last-Translator: \n"
 "Language-Team: Kazakh\n"
 "Language: kk_KZ\n"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: adjallocation/models.py
 msgid "adjudicator-team conflicts"
-msgstr ""
+msgstr "төреші мен ойыншылар арасындағы шектеу"
 
 #: adjallocation/models.py
 msgid "adjudicator 1"
@@ -190,11 +190,11 @@ msgstr "2-төреші"
 
 #: adjallocation/models.py
 msgid "adjudicator-adjudicator conflict"
-msgstr ""
+msgstr "төреші мен төреші арасындағы шектеу"
 
 #: adjallocation/models.py
 msgid "adjudicator-adjudicator conflicts"
-msgstr ""
+msgstr "төреші мен ойыншылар арасындағы шектеулер"
 
 #: adjallocation/models.py
 msgid "institution"
@@ -202,19 +202,19 @@ msgstr "қауымдастық"
 
 #: adjallocation/models.py
 msgid "adjudicator-institution conflict"
-msgstr ""
+msgstr "төреші мен қауымдастық арасындағы шектеу"
 
 #: adjallocation/models.py
 msgid "adjudicator-institution conflicts"
-msgstr ""
+msgstr "төреші мен қауымдастық арасындағы шектеулер"
 
 #: adjallocation/models.py
 msgid "team-institution conflict"
-msgstr ""
+msgstr "ойыншылар мен қауымдастық арасындағы шектеу"
 
 #: adjallocation/models.py
 msgid "team-institution conflicts"
-msgstr ""
+msgstr "ойыншылар мен қауымдастық арасындағы шектеулер"
 
 #: adjallocation/models.py
 msgid "round"
@@ -270,11 +270,11 @@ msgstr "құрам"
 
 #: adjallocation/models.py
 msgid "preformed panel adjudicator"
-msgstr ""
+msgstr "алдын-ала бекітілген төреші"
 
 #: adjallocation/models.py
 msgid "preformed panel adjudicators"
-msgstr ""
+msgstr "алдын-ала бекітілген төрешілік құрам"
 
 #: adjallocation/preformed/base.py
 msgid "There are no preformed panels to use. Have you allocated preformed panels for this round? If not, try just auto-allocating adjudicators instead."
@@ -339,7 +339,7 @@ msgstr ""
 
 #: adjallocation/views.py
 msgid "Edit Panels"
-msgstr ""
+msgstr "Төрешілік құрамды өзгерту"
 
 #: adjallocation/views.py
 msgid "Return to Panels Overview"
@@ -347,11 +347,11 @@ msgstr ""
 
 #: adjallocation/views.py
 msgid "Adjudicator-Team Conflicts"
-msgstr ""
+msgstr "Төреші мен ойыншылар арасындағы шектеулер"
 
 #: adjallocation/views.py
 msgid "Save Adjudicator-Team Conflicts"
-msgstr ""
+msgstr "Төреші мен ойыншылар арасындағы шектеулер сақтау"
 
 #: adjallocation/views.py
 #, python-format
