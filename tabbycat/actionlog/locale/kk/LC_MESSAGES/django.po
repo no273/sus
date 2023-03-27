@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-28 12:44-0400\n"
-"PO-Revision-Date: 2023-03-15 13:13\n"
+"PO-Revision-Date: 2023-03-27 09:25\n"
 "Last-Translator: \n"
 "Language-Team: Kazakh\n"
 "Language: kk_KZ\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: actionlog/apps.py
 msgid "Action Log"
-msgstr ""
+msgstr "Әрекеттер тізімі"
 
 #: actionlog/models.py
 msgid "Discarded ballot set"
@@ -31,15 +31,15 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "Created ballot set"
-msgstr ""
+msgstr "Дайындалған төрешілер парағы"
 
 #: actionlog/models.py
 msgid "Edited ballot set"
-msgstr ""
+msgstr "Өзгертілген төрешілер парағы"
 
 #: actionlog/models.py
 msgid "Confirmed ballot set"
-msgstr ""
+msgstr "Бекітілген төрешілер парағы"
 
 #: actionlog/models.py
 msgid "Submitted ballot set from the public form"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "Saved feedback"
-msgstr ""
+msgstr "Сақталған кері байланыс"
 
 #: actionlog/models.py
 msgid "Edited adjudicator base score"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "Released draw"
-msgstr ""
+msgstr "Жарияланған кесте"
 
 #: actionlog/models.py
 msgid "Unreleased draw"
@@ -119,15 +119,15 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "Added/edited motion"
-msgstr ""
+msgstr "Дайын/өзгертілген қарарлар"
 
 #: actionlog/models.py
 msgid "Released motions"
-msgstr ""
+msgstr "Жарияланған қарарлар"
 
 #: actionlog/models.py
 msgid "Unreleased motions"
-msgstr ""
+msgstr "Жарияланбаған қарарлар"
 
 #: actionlog/models.py
 msgid "Auto-prioritized debate importance"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "user"
-msgstr ""
+msgstr "қолданушы"
 
 #: actionlog/models.py
 msgid "IP address"
@@ -291,11 +291,11 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "tournament"
-msgstr ""
+msgstr "турнир"
 
 #: actionlog/models.py
 msgid "round"
-msgstr ""
+msgstr "ойын"
 
 #: actionlog/models.py
 msgid "content type"
@@ -319,5 +319,5 @@ msgstr ""
 
 #: actionlog/models.py
 msgid "anonymous"
-msgstr ""
+msgstr "жасырын түрде"
 
