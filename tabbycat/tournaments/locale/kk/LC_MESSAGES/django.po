@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:04-0400\n"
-"PO-Revision-Date: 2023-03-15 13:13\n"
+"PO-Revision-Date: 2023-03-27 09:26\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Kazakh\n"
 "Language: kk_KZ\n"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: tournaments/models.py
 msgid "tournament"
-msgstr ""
+msgstr "турнир"
 
 #: tournaments/models.py
 msgid "tournaments"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: tournaments/models.py
 msgid "round"
-msgstr ""
+msgstr "ойын"
 
 #: tournaments/models.py
 msgid "rounds"
